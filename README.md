@@ -31,4 +31,4 @@ Esse projeto está sob a licença MIT.
 
 📱 Contato:
 
-<img inline align="center" alt="linkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>https://www.linkedin.com/in/larissa-schonhofen-da-silva/
+<img inline align="center" alt="linkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>  https://www.linkedin.com/in/larissa-schonhofen-da-silva/
